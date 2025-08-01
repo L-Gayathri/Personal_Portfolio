@@ -21,7 +21,7 @@ function Hero() {
           Hi, I'm Gayathri
         </h1>
         <p className="text-xl text-gray-600 mb-6">
-          A passionate full-stack web developer focused on building clean, responsive, and user-friendly websites using modern tools like React, Node.js,Express,Mongo Db.
+          A passionate  developer focused on building clean, responsive, and user-friendly websites using modern tools like React, Node.js,Express,Mongo Db.
         </p>
         <a
           href="#contact"
