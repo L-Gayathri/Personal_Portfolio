@@ -9,7 +9,7 @@ function Skills() {
     { name: 'C++', color: 'bg-purple-600' },
     { name: 'Java', color: 'bg-red-600' },
     { name: 'Node.js', color: 'bg-green-600' },
-    { name: 'SQL', color: 'bg-voilet-700' },
+    { name: 'SQL', color: 'bg-brown-700' },
   ];
 
   return (
