@@ -3,7 +3,7 @@ import diseaseImg from '../assets/disease.webp';
 import cropImg from '../assets/crop.webp';
 import blogImg from '../assets/blog.webp';
 import faceSwapImg from '../assets/face-swap.webp';
-import jobPortalImg from '../assets/jobportal.webp';
+import jobPortalImg from '../assets/jobportal.jpg';
 
 function Projects() {
   const projects = [
