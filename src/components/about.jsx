@@ -19,7 +19,6 @@ function About() {
             <ul className="space-y-2 text-gray-700">
               <li><span className="font-semibold">Location:</span> Guntur, India</li>
               <li><span className="font-semibold">Email:</span> <a href="mailto:lakkakulagayathrinaidu@gmail.com" className="text-blue-600 hover:underline">lakkakulagayathrinaidu@gmail.com</a></li>
-              <li><span className="font-semibold">Phone:</span> Xxxxxxxx</li>
             </ul>
           </div>
         </div>
