@@ -3,18 +3,19 @@ import diseaseImg from '../assets/disease.webp';
 import cropImg from '../assets/crop.webp';
 import blogImg from '../assets/blog.webp';
 import faceSwapImg from '../assets/face-swap.webp';
+import jobPortalImg from '../assets/jobportal.webp';
 
 function Projects() {
   const projects = [
     {
       title: "Expense Tracker",
-      description: "A web app to manage and track daily expenses with dynamic charts and user authentication.",
+      description: "A web app to manage and track daily expenses  and user authentication.",
       link: "https://github.com/L-Gayathri",
       image: expenseImg,
     },
     {
       title: "Outbreak Disease Prediction System",
-      description: "A machine learning-based system to predict disease outbreaks using health and location data.",
+      description: "A machine learning-based system to predict disease outbreaks using health  data.",
       link: "https://github.com/L-Gayathri",
       image: diseaseImg,
     },
@@ -32,9 +33,15 @@ function Projects() {
     },
     {
       title: "Face Swap App",
-      description: "A fun and interactive app to swap faces in images or videos using AI and computer vision.",
+      description: "A fun and interactive app to swap faces in images using AI and computer vision.",
       link: "https://github.com/L-Gayathri",
       image: faceSwapImg,
+    },
+     {
+      title: "Job Portal Website",
+      description: "A job portal where users can post and apply for jobs with secure login and filtering features.",
+      link: "https://github.com/L-Gayathri",
+      image: jobPortalImg,
     },
   ];
 
