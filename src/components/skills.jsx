@@ -6,10 +6,10 @@ function Skills() {
     { name: 'React', color: 'bg-cyan-500' },
     { name: 'Express', color: 'bg-teal-400' },
     { name: 'Mongo DB', color: 'bg-red-500' },
-    { name: 'C++', color: 'bg-indigo-600' },
+    { name: 'C++', color: 'bg-purple-600' },
     { name: 'Java', color: 'bg-red-600' },
     { name: 'Node.js', color: 'bg-green-600' },
-    { name: 'SQL', color: 'bg-blue-700' },
+    { name: 'SQL', color: 'bg-voilet-700' },
   ];
 
   return (
